@@ -20,3 +20,4 @@ product5 = Product.new(name: "Wine Glass", price: 25, image_url: "https://www.ra
 
 product5.save
 p product5
+
